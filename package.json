@@ -1,0 +1,16 @@
+{
+  "name": "node-son",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beto Doescher",
+  "license": "ISC",
+  "dependencies": {
+    "console-log-hello-world": "^1.0.3",
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {}
+}
